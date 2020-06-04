@@ -11,5 +11,7 @@ public class CommonConstants {
 
   public final String key2 = "e4fff44f0dcf308c450f1f012f647a44";
 
-  public final String ali = "LTAI4FnDE11R7WaAtThRBPkC";
+  public final String ali = "LTAI4GHbyygLPGvHCsTtTkhQ";
+
+  public final String sec = "FQzn40zMqDTieKfzd0AZ2MfodNpcvI";
 }
