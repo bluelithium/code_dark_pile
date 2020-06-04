@@ -10,4 +10,6 @@ public class CommonConstants {
   public final String key1 = "308c450f1f012f647a44e4fff44f0dcf";
 
   public final String key2 = "e4fff44f0dcf308c450f1f012f647a44";
+
+  public final String ali = "LTAI4FnDE11R7WaAtThRBPkC";
 }
